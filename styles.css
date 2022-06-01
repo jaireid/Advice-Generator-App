@@ -58,6 +58,7 @@ main {
   color: var(--light-cyan);
   font-size: 1.5rem;
   font-weight: 600;
+  padding: 0 2rem;
   text-align: center;
 }
 
