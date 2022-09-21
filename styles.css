@@ -67,6 +67,10 @@ main {
   margin: 1.4rem 0;
 }
 
+.desktop-divider {
+  display: none;
+}
+
 /* Dice Container Section */
 .dice-button {
   background-color: var(--neon-green);
@@ -89,5 +93,11 @@ main {
   }
   .dice-button {
     left: 44%;
+  }
+  .mobile-divider {
+    display: none;
+  }
+  .desktop-divider {
+    display: block;
   }
 }
