@@ -83,7 +83,7 @@ main {
   left: 41%;
   bottom: 68px;
 }
-.dice-button.active:hover {
+html.nontouch .dice-button:hover {
   box-shadow: 0 0 40px var(--neon-green);
 }
 
